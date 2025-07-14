@@ -1,4 +1,12 @@
-#Purchase Order
+# 🧾 Purchase Order System
 
-Preview Link:
-purchase-order-jp.infinityfreeapp.com
+A simple system for managing business purchase orders.
+
+## 📦 Features
+- 📝 Create and edit orders  
+- 🗂️ Organize supplier records  
+- 💰 Track payments and costs  
+- 🔄 Monitor order status  
+- 🖨️ Print purchase orders  
+- ❌ Cancel orders  
+
