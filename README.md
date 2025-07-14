@@ -2,6 +2,9 @@
 
 A simple system for managing business purchase orders.
 
+## 🌐 Live Preview  
+👉 [Click here to view the live site](https://purchase-order-jp.infinityfreeapp.com)
+
 ## 📦 Features
 - 📝 Create and edit orders  
 - 🗂️ Organize supplier records  
@@ -9,4 +12,3 @@ A simple system for managing business purchase orders.
 - 🔄 Monitor order status  
 - 🖨️ Print purchase orders  
 - ❌ Cancel orders  
-
